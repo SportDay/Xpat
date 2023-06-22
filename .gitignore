@@ -1,0 +1,12 @@
+.merlin
+_build
+.idea
+*.sol
+fc.*
+st.*
+mo.*
+bd.*
+FreeCell.*
+Seahaven.*
+MidnightOil.*
+BakersDozen.*
